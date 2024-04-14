@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-implicit-int",
+        "clang-diagnostic-macro-redefined",
+        "clang-diagnostic-error",
+        "clang-diagnostic-implicit-int"
+    ],
+    "editor.inlineSuggest.showToolbar": "always"
+}
